@@ -1,0 +1,86 @@
+.code:hover{
+    color: #34e04e !important;
+    
+}
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color:#111211;
+}
+
+.space{
+    word-spacing: 1em;
+}
+.font{
+    font-size: 10px;
+}
+.fo{
+    font-size: 13px;  
+}
+.nav-link{
+    text-decoration: none !important;
+}
+.size{
+    font-size: 50px;
+}
+@font-face{
+    font-family: Zilla_Slab;
+    src :url(Fonts/Zilla_Slab);
+}
+.legal{
+    font-family: Zilla_Slab;
+}
+.container-fluid{
+    justify-content: 2em;
+    line-height: 2em;
+    text-indent: 5em;
+}
+.color{
+    background-color: #420885;
+}
+.family{
+    font-family: Zilla_Slab;
+    text-decoration: underline;
+}
+.live{
+    font-size: 25px;
+}
+.lift{
+    height: 330px;
+}
+.take{
+    font-family: Zilla_Slab; 
+}
+.gall{
+    font-size: 60px;
+    text-shadow: 5px 3px 3px black;
+}
+.sh{
+    box-shadow: 4px 7px 8px grey;
+}
+.same{
+    height: 180px;
+}
+.sell{
+    height: 150px;
+    box-shadow: 6px 6px 5px 6px grey;
+}
+.im{
+    background-image: url(Images/Jquery.png);
+}
+.api{
+    background-image: url(Images/Api.png);
+}
+.bus{
+    background-image: url(Images/Business.png);
+}
+.int{
+    background-image: url(Images/Integration.png);
+}
+.lead{
+    background-image: url(Images/leader.png);
+}
+.pract{
+    background-image: url(Images/Practise.png);
+}
